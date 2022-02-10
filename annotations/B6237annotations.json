@@ -1,0 +1,39 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "De Grardin du Burck souppechonn&eacute; d'avoir batu et\nmani&eacute; es mettes dudit bailliage ung nomm&eacute; Gillet  Bachin\nReceu par appointement XL s. mont&eacute; en le part de mondit seigneur XXVI s. VIII d.\nDe Jehan de Callonne fil Jules Gaisme de Betremieu machon\npour et en l'acquit de Pierot de Fernay et Gillot Desvastines\nqui par Percheval Flamencq sergent dudit bailliage avoient\nest&eacute; pris saisi d'armes nues deffendues et de trait es\nmettes d'icellui bailliage appoint&eacute; pour cause de ce en\nLXLI s. VIII d.\ncent solz mont&eacute; en le part de mondit seigneur\nDe Quentin Vignon dit dit Bondes enquoy par le\njugement des hommes de fief de la Salle de Lille au conviement\ndudit bailli ou son lieutenant il avoit et a est&eacute; condempnez\npour fault&eacute; de reparacion de chemin trouv&eacute;e contre son\nheritage qu'il a gisans en la paroice de Bondues receu\nLX s. mont&eacute; en ladicte part\nXL s.\nDe Gillart Leuridan pour et en l'acquit de Pierre le\nfoulon qui par Watier de Courchelles sergent dudit bailliage\navoit est&eacute; pris es mettes d'icellui bailliage saii d'un\nbrughemart receu par appointement XL s. mont&eacute; en\nle dicte part\nXXVI s. VIII d.\nDe Robert Cordewant pour et en l'acquit de Hellinet\nde Lannoit qu'avoit batu et mani&eacute; es mettes du\ndit bailliage une nomm&eacute; Jehan Ghelloit, receu LX s. mont&eacute;\nen le part de mondit seigneur\nXL s.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<pre>De Grardin du Burck souppechonn&eacute; d'avoir batu et\nmani&eacute; es mettes dudit bailliage ung nomm&eacute; Gillet  Bachin\nReceu par appointement XL s. mont&eacute; en le part de mondit seigneur XXVI s. VIII d.\nDe Jehan de Callonne fil Jules Gaisme de Betremieu machon\npour et en l'acquit de Pierot de Fernay et Gillot Desvastines\nqui par Percheval Flamencq sergent dudit bailliage avoient\nest&eacute; pris saisi d'armes nues deffendues et de trait es\nmettes d'icellui bailliage appoint&eacute; pour cause de ce en\nLXLI s. VIII d.\ncent solz mont&eacute; en le part de mondit seigneur\nDe Quentin Vignon dit dit Bondes enquoy par le\njugement des hommes de fief de la Salle de Lille au conviement\ndudit bailli ou son lieutenant il avoit et a est&eacute; condempnez\npour fault&eacute; de reparacion de chemin trouv&eacute;e contre son\nheritage qu'il a gisans en la paroice de Bondues receu\nLX s. mont&eacute; en ladicte part\nXL s.\nDe Gillart Leuridan pour et en l'acquit de Pierre le\nfoulon qui par Watier de Courchelles sergent dudit bailliage\navoit est&eacute; pris es mettes d'icellui bailliage saii d'un\nbrughemart receu par appointement XL s. mont&eacute; en\nle dicte part\nXXVI s. VIII d.\nDe Robert Cordewant pour et en l'acquit de Hellinet\nde Lannoit qu'avoit batu et mani&eacute; es mettes du\ndit bailliage une nomm&eacute; Jehan Ghelloit, receu LX s. mont&eacute;\nen le part de mondit seigneur\nXL s.</pre>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92516776",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-10T13:36:30",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644500190802",
+    "dcterms:modified" : "2022-02-10T13:36:30",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://ValentinDeCraene.github.io/B6237test/manifests/B6237.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=14,254,1138,1404"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M13.57629,253.67718h569.21185v0h569.21185v702.17528v702.17528h-569.21185h-569.21185v-702.17528z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_5773ac5c-be75-4f5a-83b6-79d1c5808ff8\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://198f5d05-a8b0-4513-a374-24374379a672"
+    } ]
+  } ],
+  "@id" : "https://ValentinDeCraene.github.io/B6237test/annotations/B6237annotations.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
